@@ -1,6 +1,3 @@
-
-'
-
 import Mai from "./Reduxtodo/component/main";
 import { Provider } from "react-redux";
 import store from "./Reduxtodo/store/store";
